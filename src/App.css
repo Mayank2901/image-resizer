@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  padding: 2%;
+}
+
+.errMessage {
+  color: red;
+  font-weight: bold;
+}
+
+.uploadBtnContainer {
+  text-align: center;
+  margin-top: 1%;
+}
+
+.uploadBtn {
+  background: #4cb8e4;
+  color: white;
+  border: 0px;
+  border-radius: 3%;
+  padding: 10px;
+}
