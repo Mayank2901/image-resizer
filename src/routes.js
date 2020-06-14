@@ -1,10 +1,10 @@
 import FourOFour from './404'
-import ImageUploader from './components/ImageUploader'
+import Image from './components/image'
 
 const routes = [
     {
         path: '/',
-        component: ImageUploader
+        component: Image
     },
     {
         component: FourOFour
